@@ -1,3 +1,4 @@
+-- my own version of how creating tables looks like
 -- CREATE TABLE students (
 -- ID SERIAL PRIMARY KEY,
 -- name VARCHAR(),
